@@ -2,7 +2,7 @@
 
 # Written by sokdr 20/10/2020
 
-#https://twitter.com/sokdr1
+# https://twitter.com/sokdr1
 
 echo ' ____                        ____ _ _____       ____'
 echo '|  _ \__      ___ __   __ _ / ___| |___ /  __ _| ___|'
