@@ -9,7 +9,7 @@
 
 ## Usage
 
-**_./pwnaclear_**
+**_./pwnaclear.sh_**
 
 ## Script
 
