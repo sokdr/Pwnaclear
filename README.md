@@ -14,7 +14,7 @@
 ## Script
 
 **After execution of the script declare the path that you have stored your handshakes. The script will check for the right ones and move them to a new file called CleanHandshakes.
-Further it will show how many pcap files you had and how many moved to the CleanHandshakes file. **
+Further it will show how many pcap files you had and how many moved to the CleanHandshakes file.**
 
 ## Testing
 
