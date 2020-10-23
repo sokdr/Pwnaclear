@@ -46,8 +46,8 @@ else
 	exit 0;
 fi
 echo
-mkdir $userpath/CleanHandshakes
-touch $userpath/log.txt
+mkdir $userpath/CleanHandshakes 
+touch $userpath/log.txt # error logs txt
 echo 'Check for the right pcap files::'
 echo '##########'
 echo 
